@@ -6,8 +6,6 @@ Story App adalah aplikasi web interaktif yang dibangun sebagai bagian dari submi
 - Menggunakan API sebagai sumber data utama
 - Arsitektur **Single Page Application (SPA)**
 - Menampilkan dan menambah data cerita dari API
-- Mendukung standar **Aksesibilitas (Accessibility)**
-- Transisi halaman yang halus
 - Push Notification dengan Web Push API
 - **PWA Support**: Installable & Offline Ready
 - Menggunakan **IndexedDB** untuk menyimpan cerita favorit secara offline
@@ -32,7 +30,7 @@ Story App adalah aplikasi web interaktif yang dibangun sebagai bagian dari submi
 - IndexedDB
 - Workbox
 - REST API
-- GitHub Pages / Netlify / Firebase (untuk deployment)
+- GitHub Pages (untuk deployment)
 
 
 
