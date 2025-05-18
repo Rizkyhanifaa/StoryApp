@@ -11,7 +11,7 @@ Story App adalah aplikasi web interaktif yang dibangun sebagai bagian dari submi
 - Push Notification dengan Web Push API
 - **PWA Support**: Installable & Offline Ready
 - Menggunakan **IndexedDB** untuk menyimpan cerita favorit secara offline
-- Dapat diakses secara publik melalui hosting (lihat bagian [Live Demo](#live-demo))
+- Dapat diakses secara publik melalui https://rizkyhanifaa.github.io/storyapp/
 
 ---
 
@@ -34,6 +34,5 @@ Story App adalah aplikasi web interaktif yang dibangun sebagai bagian dari submi
 - REST API
 - GitHub Pages / Netlify / Firebase (untuk deployment)
 
----
 
-## 💻 Link Deploy
+
